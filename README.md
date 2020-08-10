@@ -8,6 +8,6 @@ I was lloking to use the different methos of each frameworks and do the connecti
 <strong>Vue JS</strong><br>
 <strong>Angular JS</strong><br>
 
-## Database Info
+## API Info
 Collections in folder: api_rest_blog <br>
 MongoDB with Moongose and Express <br>
