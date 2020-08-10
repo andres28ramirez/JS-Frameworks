@@ -1,6 +1,6 @@
 ## About The Repository
 This is a practice project where I use the same frontend in all the Frameworks.
-I was lloking to use the different methos of each frameworks and do the connections with the API to retrieve the articles.
+I was looking to use the different methods of each frameworks and do the connections with the API to retrieve the articles.
 
 ## Languages & Frameworks
 
